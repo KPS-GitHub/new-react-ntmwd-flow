@@ -178,12 +178,12 @@ class Data extends React.Component {
         <br>
         </br>
         {/* REMAINING BAR */}
-        <Row>
-          <Col>
+        {/* <Row> */}
+          {/* <Col> */}
             {/* { this.state.traLatest && this.state.mainstem && this.state.eastfork ? <Remaining data={{ traLatest: this.state.traLatest, mainstem: this.state.mainstem, eastfork: this.state.eastfork }}/> : null} */}
-            { this.state.mainstem && this.state.eastfork ? <Remaining data={{ traLatest: this.state.manualTraLatest, mainstem: this.state.mainstem, eastfork: this.state.eastfork }}/> : null}
-          </Col>
-        </Row>
+            {/* { this.state.mainstem && this.state.eastfork ? <Remaining data={{ traLatest: this.state.manualTraLatest, mainstem: this.state.mainstem, eastfork: this.state.eastfork }}/> : null} */}
+          {/* </Col> */}
+        {/* </Row> */}
         {/* SMALL GRAPHS */}
         <Row>
           <Col sm={6}>
